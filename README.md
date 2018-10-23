@@ -1,5 +1,5 @@
 # Hannah E Peay
-### 111-111-1111 hannah@someEmal.com
+### 111-111-1111 hannah@someEmail.com
 ## Education
 + Sophmore at Utah Valley University
 + Major computer science
